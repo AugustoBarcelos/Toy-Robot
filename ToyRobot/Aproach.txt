@@ -1,0 +1,17 @@
+This was how I approached the exercise: 
+
+1 - create the interfaces
+2 - initiate the robot 
+3 - implement the movement with restrictions (so it doesn't fall from the table)
+4 - implement MOVE, PLACE, RIGHT and LEFT.
+5 - Implement REPORT
+6 - implement a message when the robot would fall and the command is dropped
+7 - Test the conditions to ensure it is working fine
+
+Further development:
+
+ 1 - Improve UI
+ 2 - Implement unit tests for all methods
+
+
+Note: To make the code 
